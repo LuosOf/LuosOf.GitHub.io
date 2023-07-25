@@ -1,0 +1,120 @@
+
+
+     -----   Ana Ezquizo    ----
+
+
+<div class="galeria">
+        <br>
+            <div class="galeria__item">
+                <a href="proyectos/academia/index.html" target="_blank">
+                <img src="galeria/academia.png" class="galeria__img">
+                </a>	
+            </div>
+
+            <div class="galeria__item">
+                <a href="proyectos/cohete/index.html" target="_blank">
+                <img src="galeria/cohete.png" class="galeria__img">
+                </a>	
+            </div>
+
+            <div class="galeria__item">
+                <a href="proyectos/clinica/index.html" target="_blank">
+                <img src="galeria/dentista.png" class="galeria__img">
+                </a>	
+            </div>
+
+            <div class="galeria__item">
+                <a href="proyectos/gun/index.html" target="_blank">
+                <img src="galeria/gun.png" class="galeria__img">
+                </a>	
+            </div>
+
+            <div class="galeria__item">
+                <a href="proyectos/pets/index.html" target="_blank">
+                <img src="galeria/pets.png" class="galeria__img">
+                </a>	
+            </div>
+
+            <div class="galeria__item">
+                <a href="proyectos/spa/index.html" target="_blank">
+                <img src="galeria/spa.png" class="galeria__img">
+                </a>	
+            </div>
+
+            <div class="galeria__item">
+                <a href="proyectos/tecnologia/index.html" target="_blank">
+                <img src="galeria/tecnologia.png" class="galeria__img">
+                </a>	
+            </div>
+
+            <div class="galeria__item">
+                <a href="proyectos/peru/index.html" target="_blank">
+                <img src="galeria/tumi.png" class="galeria__img">
+                </a>	
+            </div>
+
+    </div>
+
+
+
+
+Lucho   
+
+
+
+
+
+
+<section id="portfolio" class="portfolio">
+        <div class="contenido-seccion">
+            <h2>PORTFOLIO</h2>
+            <div class="galeria">
+                <div class="proyecto">
+                    <img src="img/p1.jpg" alt="">
+                    <div class="overlay">
+                        <h3>Diseño Creativo</h3>
+                        <p>Fotografía</p>
+                    </div>
+                </div>
+                <div class="proyecto">
+                    <img src="img/p2.jpg" alt="">
+                    <div class="overlay">
+                        <h3>Diseño Creativo</h3>
+                        <p>Fotografía</p>
+                    </div>
+                </div>
+                <div class="proyecto">
+                    <a href="Proyectos/bootstrap/index.html" target="_blank">
+                    <img src="img/Bootstrap.png" class="galeria__img">
+                    </a>
+                    <div class="overlay">
+                        <h3>Bootstrap</h3>
+                        <p>Fotografía</p>
+                    </div>	
+                </div>
+                <div class="proyecto">
+                    <a href="Proyectos/bootstrap/index.html" target="_blank">
+                        <img src="img/Bootstrap.png" alt="">
+                    </a>
+                    <div class="overlay">
+                        <h3>Bootstrap</h3>
+                        <p>Fotografía</p>
+                    </div>
+                </div>
+                <div class="proyecto">
+                    <img src="img/p5.jpg" alt="">
+                    <div class="overlay">
+                        <h3>Diseño Creativo</h3>
+                        <p>Fotografía</p>
+                    </div>
+                </div>
+                <div class="proyecto">
+                    <img src="img/p6.jpg" alt="">
+                    <div class="overlay">
+                        <h3>Diseño Creativo</h3>
+                        <p>Fotografía</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
